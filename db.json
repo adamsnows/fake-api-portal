@@ -42,7 +42,7 @@
       "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
       "createdOn": "Mon Aug 15 2022 19:48:33 GMT-0300 ",
       "updateOn": "Mon Aug 15 2022 19:48:33 GMT-0300 ",
-      "isAdmin": true,
+      "isAdmin": false,
       "login": "adam",
       "name": "Adam N.",
       "email": "adam2@mail.com",
