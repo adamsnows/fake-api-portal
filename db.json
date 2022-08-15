@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "createdOn": "Mon Aug 15 2022 19:48:33 GMT-0300 ",
+      "updateOn": "Mon Aug 15 2022 19:48:33 GMT-0300 ",
+      "isAdmin": true,
+      "login": "adam",
+      "name": "Adam N.",
+      "email": "adam@mail.com",
+      "discordUser": "Snows#9799",
+      "achievement": ["https://i.imgur.com/pm0UjBS.png"],
+      "imgProfile": "https://media-exp1.licdn.com/dms/image/C4D03AQGOP6oBTEl1_w/profile-displayphoto-shrink_800_800/0/1654538995215?e=1666224000&v=beta&t=fqAyyIDeG-IPDqS4W-WI3wHP84uDr2NZLnKe6UW0BSg"
+    },
+    {
+      "id": 2,
+      "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "createdOn": "Mon Aug 15 2022 19:48:33 GMT-0300 ",
+      "isAdmin": true,
+      "login": "sid",
+      "name": "Sidarta K.",
+      "email": "sidarta@gmail.com",
+      "discordUser": "PaTo#6503",
+      "achievement": ["https://i.imgur.com/pm0UjBS.png"],
+      "imgProfile": "https://avatars.githubusercontent.com/u/100426215?s=400&u=881f9f0acd57ec1ec698aab2e024248e63e6f56f&v=4"
+    },
+    {
+      "id": 3,
+      "password": 123456,
+      "created": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "isAdmin": true,
+      "username": "Fray",
+      "name": "Gabriel Fray Garandy",
+      "email": "gabrielfray@gmail.com.br",
+      "discordUser": "Fray#1433",
+      "achievement": ["https://i.imgur.com/pm0UjBS.png"]
+    },
+    {
+        
+      "id": 4,
+      "password": "$2a$10$Mdc8yclq/cBQHIL2FF9bF.O9c8vS5Wzlcm8INOyZT2tHEuz2UwTZC",
+      "createdOn": "Mon Aug 15 2022 19:48:33 GMT-0300 ",
+      "updateOn": "Mon Aug 15 2022 19:48:33 GMT-0300 ",
+      "isAdmin": true,
+      "login": "adam",
+      "name": "Adam N.",
+      "email": "adam2@mail.com",
+      "discordUser": "Snows#9799",
+      "achievement": ["https://i.imgur.com/pm0UjBS.png"],
+      "imgProfile": "https://media-exp1.licdn.com/dms/image/C4D03AQGOP6oBTEl1_w/profile-displayphoto-shrink_800_800/0/1654538995215?e=1666224000&v=beta&t=fqAyyIDeG-IPDqS4W-WI3wHP84uDr2NZLnKe6UW0BSg"
+    }
+  ]
+}
